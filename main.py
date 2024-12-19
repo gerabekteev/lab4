@@ -1,5 +1,4 @@
 import telebot
-import openai
 import requests
 from bs4 import BeautifulSoup as BS
 from telebot.types import InputMediaPhoto
